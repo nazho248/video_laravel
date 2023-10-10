@@ -1,3 +1,20 @@
+##Cosas Mias
+1. Copiar y pegar la plantilla
+   hacer:
+> composer require laravel/ui
+2. luego generar el ui
+> php artisan ui bootstrap
+
+agregamos
+@vite(['resources/sass/app.scss', 'resources/js/app.js'])
+a navbar
+
+agregamos @import 'bootstrap-icons/font/bootstrap-icons.css';
+a app.scss
+
+
+<hr>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
